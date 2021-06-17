@@ -8,6 +8,6 @@ namespace Eades_CashFlowManager
 {
     interface iPayable
     {
-        public decimal GetPayableAmmount();
+        decimal GetPayableAmmount();
     }
 }
